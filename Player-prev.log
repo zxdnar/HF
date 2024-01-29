@@ -1,0 +1,45 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Holdfast Nations At War/Holdfast NaW_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Holdfast Nations At War/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Initialize engine version: 2022.3.15f1 (b58023a2b463)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Holdfast Nations At War/Holdfast NaW_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.445 seconds
+- Finished resetting the current domain, in  0.003 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.254100 ms
+Output.log user: BAALBONI, Game Version: 2.16.8791.18502
+Detected 'GeForce GTX 860M' (3047, 2048). VRAM '2GB' - RAM '16GB'. Default quality: '0'
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.251300 ms
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 10373.
+Total: 94.911500 ms (FindLiveObjects: 0.699100 ms CreateObjectMapping: 0.606800 ms MarkObjects: 11.735300 ms  DeleteObjects: 81.869700 ms)
+
+<color=Green>Attempting Steam login; Secret: 1400000064CE082CBC4D0FC93A85230B********************************************************************************************</color>
+Reading Config File Start C:/Users/paulp/AppData/LocalLow/Anvil Game Studio/Holdfast NaW\config\Graphics.ini
+Reading Config File Start C:/Users/paulp/AppData/LocalLow/Anvil Game Studio/Holdfast NaW\config\Audio.ini
+Reading Config File Start C:/Users/paulp/AppData/LocalLow/Anvil Game Studio/Holdfast NaW\config\Gameplay.ini
+DLSS is not supported
+GC from MainScreenManager.SetupMainMenuScene
+28/01/2024 12:57:07.074 - ResourcesMemoryCleanUpRoutine Start
+<color=Magenta>GC.Collect();</color>
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 113429.
+Total: 67.747800 ms (FindLiveObjects: 10.438100 ms CreateObjectMapping: 2.844900 ms MarkObjects: 54.209300 ms  DeleteObjects: 0.255000 ms)
+
+<color=Magenta>GC.Collect();</color>
+28/01/2024 12:57:07.775 - ResourcesMemoryCleanUpRoutine End
+Set texture streaming budget to 1536
+d3d11: failed to create staging 2D texture w=2 h=128 d3dfmt=28 [887a0005]
